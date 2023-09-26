@@ -1,0 +1,22 @@
+@charset "utf-8";
+}.container-fluid.dark {
+    background-color:
+}
+
+.btn-info, .btn-secondary:hover, .btn-secondary:active, .btn-secondary:visited {
+    background-color: #8064A2 !important;
+}
+
+.lead {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.display-4 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #FFFFFF;
+}
+
+.card-title{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
